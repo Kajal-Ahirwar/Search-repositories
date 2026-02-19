@@ -12,7 +12,7 @@
 
 body {
 	margin: 0;
-	/* background: #f6f8fb; */
+	height: 100vh;
 	background: #0b1220;
 	color: #fff;
 }
@@ -279,4 +279,5 @@ main {
 
 .error {
 	color: #b91c1c
+
 }
