@@ -9,7 +9,7 @@ A minimal demo app built with Vite + React that searches public GitHub repositor
 
 ## Quick start
 ```bash
-cd "C:\Users\kajal\OneDrive\Desktop\All Projects\App-03\github-clone"
+cd "C:\Users\kajal\OneDrive\Desktop\All Projects\Search-repos"
 npm install
 # Optional: create .env with VITE_GITHUB_TOKEN=your_token_here
 npm run dev
@@ -22,3 +22,4 @@ Open http://localhost:5173 and try searching for `react`, `vite`, or any repo na
 - Use a personal access token in `.env` as `VITE_GITHUB_TOKEN` to increase rate limits when needed.
 
 Enjoy! 🎉
+
